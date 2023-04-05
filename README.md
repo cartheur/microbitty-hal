@@ -1,14 +1,10 @@
-# `nrf-hal`
+# `microbitty-hal`
 
 > [HAL] for the nRF51, nRF52 and nRF91 families of microcontrollers
 
 [HAL]: https://crates.io/crates/embedded-hal
 
 ![CI](https://github.com/nrf-rs/nrf-hal/workflows/CI/badge.svg)
-
-Please refer to the [changelog] to see what changed in the last releases.
-
-[changelog]: ./CHANGELOG.md
 
 ## Crates
 
